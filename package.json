@@ -1,5 +1,5 @@
 {
-  "name": "graphqlcrud",
+  "name": "GraphQL-Typescript--Express-GraphQL",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
     "express-graphql": "^0.12.0",
@@ -26,5 +25,14 @@
     "rimraf": "^5.0.0",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eyobedk/GraphQL-Typescript--Express-GraphQL.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eyobedk/GraphQL-Typescript--Express-GraphQL/issues"
+  },
+  "homepage": "https://github.com/Eyobedk/GraphQL-Typescript--Express-GraphQL#readme"
 }
